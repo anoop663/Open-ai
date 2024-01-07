@@ -354,13 +354,355 @@ color: white;
   color: white;
   width: 100%;
   font-weight: 5px;
+  
 }
 .respo{
-  width: 40%;
+  width: 52%;
   height: 100px;
   align-items: left;
   font-size: 50px;
   float: left;
   background-color: black;
   padding-left: 23px;
+  
+}
+.respo-content{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 25px;
+
+}
+#c31{
+  color: white;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 15px;
+  
+
+}
+.image1{
+  padding-top: 100px;
+  background-color: black;
+}
+
+.research{
+  background-color: black;
+  padding-top: 100px;
+  color: white;
+  width: 100%;
+  font-weight: 5px;
+  
+}
+.search1{
+  width: 52%;
+  height: 150px;
+  align-items: left;
+  font-size: 50px;
+  float: left;
+  background-color: black;
+  padding-left: 23px;
+  
+}
+.respo-content2{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 25px;
+  height: 150px;
+  
+
+}
+
+#c41{
+  color: white;
+  float: bottom;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 15px;
+}
+
+.update-slide2{
+  width: 100%;
+  float: left;
+  background-color: black;
+  padding-bottom: 100px;
+
+}
+.s51{
+    width: 24%;
+    float: left;
+    padding-left: 25px;
+}
+.s52{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+.s53{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+.s54{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+#d51{
+color: white;
+
+}
+#d52{
+  color: white;
+}
+
+#d53{
+  color: white;
+}
+
+#d54{
+  color: white;
+  
+}
+#c51{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+
+}
+#c52{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+#c53{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+#c54{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+
+#d51{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d52{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d53{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d54{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+
+.products{
+  background-color: black;
+  padding-top: 100px;
+  color: white;
+  width: 100%;
+  font-weight: 5px;
+  
+}
+
+.search6{
+  width: 50%;
+  height: 150px;
+  align-items: left;
+  font-size: 50px;
+  float: left;
+  background-color: black;
+  padding-left: 23px;
+}
+
+.respo-content6{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 25px;
+  height: 150px;
+  width: 48%;
+  float: right;
+  background-color: black;
+  padding-right: 5.5px;
+  
+
+}
+#c61{
+  color: white;
+  float: bottom;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 15px;
+}
+
+/* slider boady start */
+
+.update-slide3{
+  width: 100%;
+  float: left;
+  background-color: black;
+  padding-bottom: 100px;
+
+}
+.s71{
+    width: 24%;
+    float: left;
+    padding-left: 25px;
+}
+.s72{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+.s73{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+.s74{
+  width: 24%;
+  float: left;
+  padding-left: 5px;
+
+}
+#d71{
+color: white;
+
+}
+#d72{
+  color: white;
+}
+
+#d73{
+  color: white;
+}
+
+#d74{
+  color: white;
+  
+}
+#c71{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+
+}
+#c72{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+#c73{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+#c74{
+  color: white;
+  text-decoration: none;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 18px;
+}
+
+#d71{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d72{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d73{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+#d74{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 19px;
+}
+
+/* slider boady end */
+
+/* slider header3 start */
+.careers{
+  background-color: black;
+  padding-top: 100px;
+  color: white;
+  width: 100%;
+  font-weight: 5px;
+  
+}
+
+.search8{
+  width: 50%;
+  height: 180px;
+  align-items: left;
+  font-size: 50px;
+  float: left;
+  background-color: black;
+  padding-left: 23px;
+}
+
+.respo-content8{
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 25px;
+  height: 150px;
+  width: 48%;
+  float: right;
+  background-color: black;
+  padding-right: 5.5px;
+}
+
+#c81{
+  color: white;
+  float: bottom;
+  font-family: Soehne,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif;
+  font-size: 15px;
+}
+/* slider header3 end */
+
+.image3{
+  padding-top: 100px;
+  background-color: black;
+  padding-bottom: 100px;
+}
+
+.testi{
+  background-color: black;
+  padding-top: 100px;
+  color: white;
+  width: 100%;
+  font-weight: 5px;
+
+}
+.search9{
+  
+  font-family: "Signifier", ui-serif, Georgia, Cambria, Times New Roman, Times, serif;
+  font-size: 50px;
+  height: 150px;
+  width: 50%;
+  float: left;
+  background-color: black;
+  padding-right: 5.5px;
+  height: 800px;
+  background-color: black;
+
+}
+.testi-image{
+  
+  float: left;
+  background-color: black;
+
 }
