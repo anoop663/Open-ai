@@ -276,9 +276,8 @@ font-size: 28px;
 
 .update-slide{
   width: 100%;
-  float: left;
   background-color: black;
-  padding-bottom: 100px;
+  height: 600px 
 
 }
 .s11{
@@ -364,10 +363,11 @@ color: white;
 
 .safety1{
   background-color: black;
-  padding-top: 100px;
   color: white;
   width: 100%;
   font-weight: 5px;
+  margin-top: 1px;
+  padding-top: 14px;
   
 }
 .respo{
@@ -436,7 +436,7 @@ color: white;
   width: 100%;
   float: left;
   background-color: black;
-  padding-bottom: 100px;
+  height: 500px;
 
 }
 .s51{
@@ -523,7 +523,6 @@ color: white;
 
 .products{
   background-color: black;
-  padding-top: 100px;
   color: white;
   width: 100%;
   font-weight: 5px;
@@ -564,7 +563,7 @@ color: white;
   width: 100%;
   float: left;
   background-color: black;
-  padding-bottom: 100px;
+  height: 500px;
 
 }
 .s71{
@@ -692,7 +691,7 @@ color: white;
 .image3{
   padding-top: 100px;
   background-color: black;
-  padding-bottom: 100px;
+  height: 2310px;
 }
 
 .testi{
@@ -700,7 +699,8 @@ color: white;
   padding-top: 50px;
   width: 100%;
   font-weight: 1px;
-  margin-top: 1px 
+  margin-top: 0.3px;
+  height: 930px;
 
 }
 .search9{
@@ -739,8 +739,9 @@ color: white;
 }
 
 .join-us{
-  width: 100%;
+  width: 99%;
   background-color: black;
+  padding-left: 13px;
 }
 .main-c2{
   width: 100%;
@@ -766,6 +767,17 @@ color: white;
   background-color: black;
   font-size: 28px;
   color: white;
+  height: 75px;
+  box-sizing:content-box;
+  padding-right: 0px;
+  border-radius: 6px;
+  border-color: white;
+}
+.join-button1 :hover{
+  width: 96%;
+  background-color: white;
+  font-size: 28px;
+  color: black;
   height: 75px;
   box-sizing:content-box;
   padding-left: 5px;
@@ -835,23 +847,29 @@ color: white;
   font-size: 18px;
   height: 300px;
   padding-left: 7px;
+  text-decoration: none;
 
 }
 
 #f81{
   color: white;
+  text-decoration: none;
 }
 #f82{
   color: white;
+  text-decoration: none;
 }
 #f83{
   color: white;
+  text-decoration: none;
 }
 #f84{
   color: white;
+  text-decoration: none;
 }
 #f85{
   color: white;
+  text-decoration: none;
 }
 
 
@@ -883,18 +901,54 @@ color: white;
   float: left;
 
 }
+#g81{
+  text-decoration: none;
+    color: white;
+}
+#g82{
+  text-decoration: none;
+    color: white;
+}
+#g83{
+  text-decoration: none;
+    color: white;
+}
+#g84{
+  text-decoration: none;
+    color: white;
+}
+
+
+
 #g85{
   padding-right: 25px;
+  text-decoration: none;
+    color: white;
 }
 #g86{
   padding-right: 25px;
+  text-decoration: none;
+    color: white;
 }
 #g87{
   padding-right: 25px;
+  text-decoration: none;
+    color: white;
 }
 #g88{
   padding-right: 25px;
+  text-decoration: none;
+    color: white;
 }
+#g89{
+  text-decoration: none;
+    color: white;
+}
+#g90{
+  text-decoration: none;
+    color: white;
+}
+
 .foot2-part2-div1{
   height: 76px;
 }
