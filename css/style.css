@@ -136,7 +136,7 @@ body{
  padding-bottom: 70px;
  position: relative;
 }
-.main-banner::after{position: absolute;width: 100%;height:100%;background-color:rgba(0, 0, 0, 0.7);content:"";top:0;z-index:0;}
+.main-banner::after{position: absolute;width: 100%;height:100%;background-color:rgba(0, 0, 0, 0.6);content:"";top:0;z-index:0;}
 
 #video1{
   position: relative;
